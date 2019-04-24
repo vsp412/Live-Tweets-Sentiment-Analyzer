@@ -1,0 +1,10 @@
+Steps to run Model 1:
+
+1. Launch Spyder IDE in Anaconda
+2. Open this the file first.py
+3. Set 'Backend' to 'Automatic', as directed in the comments written in the file first.py
+   Default is Inline. Go to Settings (Preferences in Mac) -> IPython Console -> Graphics        
+   Tab. Set Backend to Automatic
+4. Run the code
+
+**Please read and refer to all the comments made in all the code files** 

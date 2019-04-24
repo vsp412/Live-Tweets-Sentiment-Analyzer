@@ -1,0 +1,8 @@
+Steps to run Model 1:
+
+1. Migrate to the 'Model 2' folder through Terminal or command line
+2. First run 'python t1.py'. This will create and train the Naives Bayes classifier
+3. Then run 'python t2.py'. This will start a stream of tweets, and classify each tweet as negative or positive, denoting them as 'neg' or 'pos' respectively and store it in a file in same directory
+4. Then run 'python plot2.py' in order to visualize the live streams sentiment, this will read all the 'pos' and 'neg' in the file created in the previous step.
+
+**Please read and refer to all the comments made in all the code files**
